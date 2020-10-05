@@ -44,7 +44,7 @@ h4[class="indifferent"] {
 }
 
 h4[class="dubious"] {
-  background: linear-gradient(0.25turn, #8b0000, #);
+  background: linear-gradient(0.25turn, #8b0000, #ffcccb);
 }
 
 .dubious {
