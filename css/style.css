@@ -33,6 +33,10 @@ h4[class="amiable"] {
 
 }
 
+h4[class="indifferent"] {
+  background: linear-gradient(0.25turn, #cccc00, #dddd22);
+}
+
 .indifferent {
   border: 1px solid #cc0;
   box-shadow:  -1px 1px #cc0, -2px 2px #cc0, -3px 3px #cc0, -4px 4px #cc0, -5px 5px #cc0;
